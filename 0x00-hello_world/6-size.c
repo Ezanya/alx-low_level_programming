@@ -2,7 +2,7 @@
 /**
  * main - print out size of data types in c
  * Return : ()
-*/
+ */
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
