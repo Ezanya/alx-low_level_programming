@@ -1,4 +1,7 @@
-#include "_putchar.c"
-#include "1-alphabet.c"
+#ifndef main_h
+#define main_h
+
 int _putchar(char c);
 void print_alphabet(void);
+
+#endif 
