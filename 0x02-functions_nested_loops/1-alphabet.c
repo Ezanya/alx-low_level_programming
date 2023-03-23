@@ -3,7 +3,7 @@
  * main - Print _putchar
  * Return: Always 0
  */
-int main(void)
+void print_alphabet(void)
 {       
         int x = 97;
         while (x < 123){
