@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Print _putchar
- * Return: Always 0
- */
+* main - entry point
+* return: always 0 
+*/
 void print_alphabet(void)
 {
         int x = 97;
@@ -10,5 +10,5 @@ void print_alphabet(void)
                 _putchar(x);
                 x++;
         }
-        _putchar('\n');
-} 
+        _putchar('\n);
+}
