@@ -2,6 +2,7 @@
 /**
  * print_sign - check and print sign
  * @n: integer
+ * Description: print +, 0, or - depending on number, along with return
  * return: sign
  */
 int print_sign(int n)
